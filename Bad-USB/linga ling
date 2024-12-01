@@ -1,0 +1,9 @@
+REM Author: Xset_Drippy1
+REM Description: FREE BOBUX
+
+DELAY 1000
+GUI r
+DELAY 200
+STRING powershell Start-Process "https://www.youtube.com/watch?v=w8_V_kIgdFI"
+DELAY 500
+ENTER
