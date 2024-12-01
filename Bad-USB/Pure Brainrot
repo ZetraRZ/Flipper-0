@@ -1,0 +1,10 @@
+REM Author: ZetraRZ
+REM Date: 2024-11-28
+REM Description: FREE BOBUX
+
+DELAY 1000
+GUI r
+DELAY 200
+STRING powershell Start-Process "https://www.youtube.com/watch?v=YG0viOA0vSI"
+DELAY 500
+ENTER
